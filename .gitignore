@@ -1,0 +1,352 @@
+# .gitignore para um projeto Python
+
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar todos os arquivos .pyc
+*.pyc
+
+# Ignorar todos os diretórios __pycache__
+__pycache__/
+
+# Ignorar todos os arquivos .pyo
+*.pyo
+
+# Ignorar todos os arquivos .pyd
+*.pyd
+
+# Ignorar todos os arquivos .so
+*.so
+
+# Ignorar todos os arquivos .lib
+*.lib
+
+# Ignorar todos os arquivos .dll
+*.dll
+
+# Ignorar todos os arquivos .a
+*.a
+
+# Ignorar todos os arquivos .o
+*.o
+
+# Ignorar todos os arquivos .log
+*.log
+
+# Ignorar todos os arquivos .csv
+*.csv
+
+# Ignorar todos os arquivos .dat
+*.dat
+
+# Ignorar todos os arquivos .out
+*.out
+
+# Ignorar todos os arquivos .pid
+*.pid
+
+# Ignorar todos os arquivos .tar
+*.tar
+
+# Ignorar todos os arquivos .zip
+*.zip
+
+# Ignorar todos os arquivos .gz
+*.gz
+
+# Ignorar todos os arquivos .bz2
+*.bz2
+
+# Ignorar todos os arquivos .sqlite
+*.sqlite
+
+# Ignorar todos os arquivos .sqlitedb
+*.sqlitedb
+
+# Ignorar todos os arquivos .sqlite3
+*.sqlite3
+
+# Ignorar todos os arquivos .pkl
+*.pkl
+
+# Ignorar todos os arquivos .csv
+*.csv
+
+# Ignorar todos os arquivos .ini
+*.ini
+
+# Ignorar todos os arquivos .json
+*.json
+
+# Ignorar todos os arquivos .yml
+*.yml
+
+# Ignorar todos os arquivos .yaml
+*.yaml
+
+# Ignorar todos os arquivos .toml
+*.toml
+
+# Ignorar todos os arquivos .xml
+*.xml
+
+# Ignorar todos os arquivos .html
+*.html
+
+# Ignorar todos os arquivos .htm
+*.htm
+
+# Ignorar todos os arquivos .php
+*.php
+
+# Ignorar todos os arquivos .jsp
+*.jsp
+
+# Ignorar todos os arquivos .asp
+*.asp
+
+# Ignorar todos os arquivos .aspx
+*.aspx
+
+# Ignorar todos os arquivos .js
+*.js
+
+# Ignorar todos os arquivos .ts
+*.ts
+
+# Ignorar todos os arquivos .tsx
+*.tsx
+
+# Ignorar todos os arquivos .jsx
+*.jsx
+
+# Ignorar todos os arquivos .css
+*.css
+
+# Ignorar todos os arquivos .scss
+*.scss
+
+# Ignorar todos os arquivos .sass
+*.sass
+
+# Ignorar todos os arquivos .less
+*.less
+
+# Ignorar todos os arquivos .vue
+*.vue
+
+# Ignorar todos os arquivos .java
+*.java
+
+# Ignorar todos os arquivos .class
+*.class
+
+# Ignorar todos os arquivos .jar
+*.jar
+
+# Ignorar todos os arquivos .war
+*.war
+
+# Ignorar todos os arquivos .ear
+*.ear
+
+# Ignorar todos os arquivos .sar
+*.sar
+
+# Ignorar todos os arquivos .rar
+*.rar
+
+# Ignorar todos os arquivos .car
+*.car
+
+# Ignorar todos os arquivos .nar
+*.nar
+
+# Ignorar todos os arquivos .par
+*.par
+
+# Ignorar todos os arquivos .tar
+*.tar
+
+# Ignorar todos os arquivos .tgz
+*.tgz
+
+# Ignorar todos os arquivos .gzip
+*.gzip
+
+# Ignorar todos os arquivos .bzip2
+*.bzip2
+
+# Ignorar todos os arquivos .xz
+*.xz
+
+# Ignorar todos os arquivos .lzma
+*.lzma
+
+# Ignorar todos os arquivos .zip
+*.zip
+
+# Ignorar todos os arquivos .7z
+*.7z
+
+# Ignorar todos os arquivos .rar
+*.rar
+
+# Ignorar todos os arquivos .exe
+*.exe
+
+# Ignorar todos os arquivos .msi
+*.msi
+
+# Ignorar todos os arquivos .bin
+*.bin
+
+# Ignorar todos os arquivos .bat
+*.bat
+
+# Ignorar todos os arquivos .cmd
+*.cmd
+
+# Ignorar todos os arquivos .sh
+*.sh
+
+# Ignorar todos os arquivos .bash
+*.bash
+
+# Ignorar todos os arquivos .zsh
+*.zsh
+
+# Ignorar todos os arquivos .fish
+*.fish
+
+# Ignorar todos os arquivos .csh
+*.csh
+
+# Ignorar todos os arquivos .tcsh
+*.tcsh
+
+# Ignorar todos os arquivos .ksh
+*.ksh
+
+# Ignorar todos os arquivos .dash
+*.dash
+
+# Ignorar todos os arquivos .ash
+*.ash
+
+# Ignorar todos os arquivos .sash
+*.sash
+
+# Ignorar todos os arquivos .ch
+*.ch
+
+# Ignorar todos os arquivos .rc
+*.rc
+
+# Ignorar todos os arquivos .tsch
+*.tsch
+
+# Ignorar todos os arquivos .pl
+*.pl
+
+# Ignorar todos os arquivos .py
+*.py
+
+# Ignorar todos os arquivos .rb
+*.rb
+
+# Ignorar todos os arquivos .go
+*.go
+
+# Ignorar todos os arquivos .rs
+*.rs
+
+# Ignorar todos os arquivos .hs
+*.hs
+
+# Ignorar todos os arquivos .lua
+*.lua
+
+# Ignorar todos os arquivos .java
+*.java
+
+# Ignorar todos os arquivos .class
+*.class
+
+# Ignorar todos os arquivos .m
+*.m
+
+# Ignorar todos os arquivos .mm
+*.mm
+
+# Ignorar todos os arquivos .swift
+*.swift
+
+# Ignorar todos os arquivos .cpp
+*.cpp
+
+# Ignorar todos os arquivos .cxx
+*.cxx
+
+# Ignorar todos os arquivos .cc
+*.cc
+
+# Ignorar todos os arquivos .c
+*.c
+
+# Ignorar todos os arquivos .cs
+*.cs
+
+# Ignorar todos os arquivos .pas
+*.pas
+
+# Ignorar todos os arquivos .pp
+*.pp
+
+# Ignorar todos os arquivos .p
+*.p
+
+# Ignorar todos os arquivos .f
+*.f
+
+# Ignorar todos os arquivos .for
+*.for
+
+# Ignorar todos os arquivos .f90
+*.f90
+
+# Ignorar todos os arquivos .f95
+*.f95
+
+# Ignorar todos os arquivos .f03
+*.f03
+
+# Ignorar todos os arquivos .f08
+*.f08
+
+# Ignorar todos os arquivos .f15
+*.f15
+
+# Ignorar todos os arquivos .f18
+*.f18
+
+# Ignorar todos os arquivos .cob
+*.cob
+
+# Ignorar todos os arquivos .cpy
+*.cpy
+
+# Ignorar todos os arquivos .asm
+*.asm
+
+# Ignorar todos os arquivos .s
+*.s
+
+# Ignorar todos os arquivos .S
+*.S
+
+# Ignorar todos os arquivos .sx
+*.sx
+
+# Ignorar arquivo de variáveis de ambiente
+.env
